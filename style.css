@@ -183,3 +183,57 @@ nav{
     width: 100%;
     font-size: 14px;
 }
+
+/* Resume section start here now */
+/* Resume section start here now */
+
+.resumeArea{
+    width: 70%;
+    margin: 80px auto;
+}
+
+.resumeArea h1{
+    font-size: 40px;
+    font-weight: 600;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.resume-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 40px 0px;
+}
+
+.single-box-resume h3{
+    padding: 20px 0px;
+    font-size: 16px;
+}
+
+.single-box-resume h3{
+    padding: 10px 0px;
+    font-size: 16px;
+}
+
+.single-box-resume h4{
+    font-size: 13px;
+}
+
+.single-box-resume h2{
+    padding: 20px 0px;
+    font-size: 16px;
+    color:rgb(194, 190, 190);
+}
+
+.single-box-resume p{
+    font-size: 13px;
+}
+
+hr{
+    width: 96%;
+    height: 1px;
+    background-color: #f5e0e0;
+    margin: 20px 0px;
+}
