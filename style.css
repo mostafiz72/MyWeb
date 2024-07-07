@@ -66,7 +66,6 @@ nav{
 /* Header section start here now */
 
 .headBody{
-    border: 1px solid red;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -99,4 +98,88 @@ nav{
 .headImg img{
     width: 100%;
     height: 100%;
+}
+
+/* About  section start here now */
+/* About  section start here now */
+
+.aboutarea{
+    width: 70%;
+    margin: 80px auto;
+    background-color: #FFF8F3;
+    padding: 80px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.aboutarea h1{
+    font-size: 40px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.aboutarea p{
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.info p{
+    margin-bottom: 10px
+}
+
+
+/* Services section start here now */
+
+.serviceArea{
+    width: 70%;
+    margin: 80px auto;
+    text-align: center;
+}
+
+.serviceArea h1{
+    font-size: 40px;
+    font-weight: 600;
+    padding: 20px 0px;
+}
+
+.serviceArea p{
+    font-size: 16px;
+    line-height: 22px;
+    color: #a8a5a5;
+    width: 90%;
+    margin: auto;
+}
+
+.service-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    padding: 40px 0px;
+}
+
+.single-box{
+    text-align: left;
+    padding: 30px 20px;
+    box-shadow: 0px 0px 4px rgb(194, 190, 190);
+    border-radius: 10px;
+    width: 40%;
+}
+
+.single-box h4{
+    padding: 20px 0px;
+    font-size: 13px;
+}
+
+.single-box p{
+    text-align: left;
+    width: 100%;
+    font-size: 14px;
 }
