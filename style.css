@@ -237,3 +237,9 @@ hr{
     background-color: #f5e0e0;
     margin: 20px 0px;
 }
+
+.resume-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
